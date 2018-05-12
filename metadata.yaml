@@ -1,0 +1,29 @@
+_repo: The-Whirligig-of-Time_37906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Wayland Wells
+    birthdate: 1888
+    deathdate: 1945
+    gutenberg_agent_id: '39127'
+    url: http://www.gutenberg.org/2009/agents/39127
+description: ''
+gutenberg_issued: '2011-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Yale University -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'College students -- Fiction'
+title: The Whirligig of Time
+url: http://www.gutenberg.org/ebooks/37906
